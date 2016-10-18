@@ -21,6 +21,7 @@ First, setup the API and install the dependencies:
 ```
 git clone https://github.com/LibRank-Project/LibRank-Demonstrator-API
 cd LibRank-Demonstrator-API
+mkdir .lwp-cache
 cpanm --installdeps .
 
 cpanm https://github.com/LibRank-Project/LibRank-Measure.git
