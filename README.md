@@ -11,7 +11,7 @@ uses the API to get some basic data about tasks, features, and
 predefined rankings. The main purpose of the API is to determine the result 
 lists and performance for the tasks for custom model/feature weights 
 provided by the user. The actual calculation is done by the `Model` objects in 
-[LibRank::Ranker](https:/github.com/LibRank-Project/LibRank-Ranker).
+[LibRank::Ranker](https://github.com/LibRank-Project/LibRank-Ranker).
 
 
 ## Deployment
